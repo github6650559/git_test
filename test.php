@@ -7,7 +7,7 @@
 	        if (isset($_SERVER)){
 	            if (isset($_SERVER['SERVER_ADDR'])){
 	                $serverip = $_SERVER['SERVER_ADDR'];
-	            }else{
+	            }else{ss
 	                $serverip = '0.0.0.0';
 	            }
 	        }
