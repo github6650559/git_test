@@ -1,4 +1,6 @@
 <?php
+	check
+	
         function real_server_ip(){
 	        static $serverip = NULL;
 	        if ($serverip !== NULL){
